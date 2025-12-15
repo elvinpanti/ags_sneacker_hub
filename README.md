@@ -341,7 +341,7 @@
                 </div>
                 <div class="feature">
                     <h3>🚀 Fast Delivery</h3>
-                    <p>Free shipping on orders over $100, with express options available.</p>
+                    <p>Free shipping on orders, with express options available.</p>
                 </div>
             </div>
         </section>
@@ -371,7 +371,7 @@
                 <h2>Contact Us</h2>
                 <p>Have questions? Reach out to our team!</p>
                 <p><strong>Email:</strong> <a href="mailto:info@agssneakerhub.com">info@agssneakerhub.com</a></p>
-                <p><strong>Phone:</strong> (123) 456-7890</p>
+                <p><strong>Phone:</strong> (501) 6379693</p>
                 <p style="margin-top: 1.5rem;">Follow us on social media for the latest updates and giveaways.</p>
             </div>
         </section>
