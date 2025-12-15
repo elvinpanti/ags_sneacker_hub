@@ -94,7 +94,14 @@
 
         /* Hero Section */
         .hero { 
-            background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://images.unsplash.com/photo-1460353581641-37baddab0fa2?w=1200&h=400&fit=crop');
+            background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),<header>
+    <a href="#home">
+        <img src="YOUR_LOGO_URL" alt="AG Sneaker Hub Logo" style="max-width: 200px;">
+    </a>
+</header>
+    </a>
+    <h1>Welcome to AGS Sneaker Hub</h1>
+</header>
             background-size: cover; 
             background-position: center;
             height: 500px; 
