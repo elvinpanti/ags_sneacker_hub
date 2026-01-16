@@ -77,7 +77,7 @@
         }
 
         .section { 
-            margin-bottom: 60px; 
+            margin-bottom: 70px; 
             animation: fadeInUp 0.6s ease;
         }
 
